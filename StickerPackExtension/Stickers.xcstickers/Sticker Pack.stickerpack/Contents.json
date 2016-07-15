@@ -1,0 +1,26 @@
+{
+  "stickers" : [
+    {
+      "filename" : "aa428bae0f0a385213d72784b6341d3f.sticker"
+    },
+    {
+      "filename" : "87d2e478f64dfc7c4a901f70cddd250d.sticker"
+    },
+    {
+      "filename" : "iMessage App Icon6.sticker"
+    },
+    {
+      "filename" : "iMessage App Icon.sticker"
+    },
+    {
+      "filename" : "20b87a0245d38edcc8578193300124d3 (1).sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
